@@ -1,5 +1,7 @@
 HELLO WORLD
-Int mai()
+#include<stdio.h>
+int main()
 {
   printf("Hello World");
+  retunr 0;
 }
